@@ -1,5 +1,7 @@
 ## 2022.4.25
 
+git token: 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
+
 ### 1）kafka面经
 
 https://www.nowcoder.com/discuss/809261?type=post&order=recall&pos=&page=1&ncTraceId=&channel=-1&source_id=search_post_nctrack&gio_id=5481F0EDF386C227E070D0D1AE345320-1650849034119
@@ -40,3 +42,4 @@ zookeeper:
 - zookeeper将数据保存在内存中，所以性能很棒
 - 重点在于协调服务，不是存储数据，因此每个zNode最多存1M的数据
 - ==选举leader的过程不够详细==
+
