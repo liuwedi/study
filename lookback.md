@@ -43,3 +43,5 @@ zookeeper:
 - 重点在于协调服务，不是存储数据，因此每个zNode最多存1M的数据
 - ==选举leader的过程不够详细==
 
+lwdlwd
+
